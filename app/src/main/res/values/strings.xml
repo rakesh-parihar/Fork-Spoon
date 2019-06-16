@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fork &amp; Spoon</string>
+    <string name="lbl_splash">Fork &amp; Spoon\nRecipes</string>
+    <string name="lbl_no_records_found">No records found.</string>
+    <string name="msg_no_internet">You are not connected to internet!</string>
+    <string name="msg_error">Something bad happened. Please try again!</string>
+</resources>
